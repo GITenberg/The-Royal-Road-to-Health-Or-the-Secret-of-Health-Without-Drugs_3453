@@ -1,5 +1,5 @@
 _repo: The-Royal-Road-to-Health-Or-the-Secret-of-Health-Without-Drugs_3453
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcc 'RM'
 - !lcsh 'Health'
 - !lcsh 'Enema'
+- GITenberg
 title: The Royal Road to Health; Or, the Secret of Health Without Drugs
 url: http://www.gutenberg.org/ebooks/3453
